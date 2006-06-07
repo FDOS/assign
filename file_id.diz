@@ -1,0 +1,10 @@
+ASSIGN: Replace drive letters for MS-DOS v1.4 GPL
+The compiling requires:
+the message library release 3
+the supplemental library v2.2
+a librarian
+Bin2c
+Makefile for:
+the DMake package patchlevel 2
+Target compilers:
+Borland C v3.1+, Micro-C v3.13
